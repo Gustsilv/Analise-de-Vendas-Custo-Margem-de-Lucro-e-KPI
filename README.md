@@ -1,5 +1,5 @@
 # Análise de Vendas, Custo, Margem de Lucro e KPIs
-
+![Dashboard de Vendas](imagem/dashboard.png)
 Este projeto é um estudo prático focado no desenvolvimento de habilidades em Power BI. O objetivo principal foi a construção de um dashboard analítico para monitorar o desempenho de vendas, custos, margem de lucro e os principais indicadores de desempenho (KPIs) de uma empresa fictícia.
 
 ## Conteúdo do Projeto
